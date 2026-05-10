@@ -145,13 +145,19 @@ Disable "Flyme payment protection" in "Developer options".
   
   On Android 8, the option is "Select USB configuration" - "Charge only".
   
-  On Android 9+, the option is "Default USB configuration" - "No data transfer".
+  On Android 15, the option is "Default USB configuration" - "No data transfer".
 
 - (Android 11+) Enable "Disable adb authorization timeout" option
 
 #### EMUI (Huawei)
 
 Enable "Allow ADB debugging options in 'Charge only' mode" in "Developer options".
+
+
+#### OPPO A6
+-MAKE SHIZUKU DEBUGGING IN DEVELOPER 
+
+
 
 #### MIUI (Xiaomi, POCO)
 
